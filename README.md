@@ -3,7 +3,7 @@
 This repository contains projects focused on Business Intelligence and data analysis applied to People Operations.
 
 The goal of this portfolio is to demonstrate practical skills in:
-
+ 
 - SQL data analysis  
 - HR data modeling  
 - Business Intelligence dashboards  
