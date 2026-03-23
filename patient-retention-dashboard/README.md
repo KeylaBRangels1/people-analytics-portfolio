@@ -10,7 +10,7 @@ A business intelligence case study on improving patient loyalty and reducing chu
 <p align="center">
   <img src="dashboard_mockup.png" alt="Patient Retention Dashboard" width="85%">
 </p>
-
+---
 ## 🩺 Problem
 Healthcare organizations often struggle to understand why patients discontinue their treatments or switch providers. Without clear visibility into retention patterns, it becomes difficult to design effective engagement and follow-up strategies.
 
