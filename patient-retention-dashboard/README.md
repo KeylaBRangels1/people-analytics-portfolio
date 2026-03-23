@@ -32,11 +32,12 @@ Develop a business intelligence dashboard that visualizes patient retention rate
 
 ## ⚙️ Approach
 ---
-1. **Data Preparation:** Cleaned and structured patient visit data to ensure consistency and remove duplicates.  
-2. **Data Modeling:** Built a relational model linking patients, visits, and treatment outcomes.  
-3. **Analysis:** Calculated retention metrics such as repeat visit rate, average time between visits, and churn segments.  
-4. **Visualization:** Designed an interactive dashboard to track retention trends and segment performance.
+The design decisions focused on making retention analysis actionable for business users:
 
+- **Metric definition:** Chose KPIs that connect patient behavior to operational performance — retention rate, satisfaction score, and churn ratio.  
+- **Data structure:** Modeled patient visits and feedback data to enable segmentation by department, provider, and time period.  
+- **User experience:** Prioritized a clean layout with filters and drill‑downs to help non‑technical users explore insights independently.  
+- **Governance:** Ensured data consistency through standardized calculations and clear metric ownership.
 ---
 
 ## 🔁 Iteration
@@ -63,11 +64,29 @@ This dashboard enables healthcare leaders to:
 
 ---
 
+## ⚠️ Limitations
+---
+- The dataset is static and doesn’t reflect real‑time patient interactions.  
+- Feedback data is limited to survey responses, which may not capture all churn drivers.  
+- The dashboard assumes consistent data entry across departments, which may vary in real settings.  
+- No predictive layer is included — insights are descriptive only.
+
+---
+
 ## 🧭 Key Takeaways
 ---
 - Data-driven insights can significantly improve patient retention strategies.  
 - Combining SQL data modeling with BI visualization creates transparency and accountability.  
 - Iterative dashboard design enhances decision-making and stakeholder adoption.
+
+---
+
+## 🚀 Future Improvements
+---
+- Integrate predictive analytics to forecast patient churn probability.  
+- Automate data refresh and scheduling for near real‑time monitoring.  
+- Add alerting features to flag sudden drops in retention or satisfaction.  
+- Expand the model to include financial impact and ROI tracking.
 
 ---
 
