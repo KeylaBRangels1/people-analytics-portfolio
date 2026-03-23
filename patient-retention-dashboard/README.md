@@ -1,12 +1,14 @@
 <h1 align="center">📊 Patient Retention Dashboard</h1>
 
-## 💡 Key Insight
-Retention is not just a metric — it reflects the quality of patient experience.  
-This project shows how structured data and BI design can reveal where engagement drops and how to act before patients churn.
-
 <p align="center">
 A business intelligence case study on improving patient loyalty and reducing churn through data-driven insights.
 </p>
+
+---
+
+## 💡 Key Insight
+Retention is not just a metric — it reflects the quality of patient experience.  
+This project shows how structured data and BI design can reveal where engagement drops and how to act before patients churn.
 
 ---
 
