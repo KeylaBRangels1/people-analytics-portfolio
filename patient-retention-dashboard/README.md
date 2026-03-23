@@ -11,6 +11,8 @@ A business intelligence case study on improving patient loyalty and reducing chu
 ---
 
 ## 🖼️ Dashboard Overview
+This wireframe represents the analytical layout of the Patient Retention Dashboard.  
+It highlights how KPIs, segmentation views, and satisfaction metrics are structured to help HR and operations teams identify churn patterns and retention opportunities.
 <p align="center">
   <img src="dashboard_mockup.png" alt="Patient Retention Dashboard" width="85%">
 </p>
