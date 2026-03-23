@@ -1,14 +1,15 @@
-# 📊 Patient Retention Dashboard
+<h1 align="center">📊 Patient Retention Dashboard</h1>
 
-**A business intelligence case study on improving patient loyalty and reducing churn through data-driven insights.**
+<p align="center">
+A business intelligence case study on improving patient loyalty and reducing churn through data-driven insights.
+</p>
 
 ---
 
 ## 🖼️ Dashboard Overview
-
-![Patient Retention Dashboard](dashboard_mockup.png)
-
----
+<p align="center">
+  <img src="dashboard_mockup.png" alt="Patient Retention Dashboard" width="85%">
+</p>
 
 ## 🩺 Problem
 Healthcare organizations often struggle to understand why patients discontinue their treatments or switch providers. Without clear visibility into retention patterns, it becomes difficult to design effective engagement and follow-up strategies.
