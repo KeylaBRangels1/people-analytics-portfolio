@@ -56,6 +56,7 @@ Business intelligence case study focused on patient retention analytics and chur
 
 [View project →](./patient-retention-dashboard/README.md)
 
+---
 
 ## Tools & Skills
 SQL  
