@@ -46,6 +46,17 @@ Analysis of recruiting pipeline performance to identify bottlenecks and improve 
 
 ---
 
+### 4. Patient Retention Dashboard
+Business intelligence case study focused on patient retention analytics and churn reduction.
+
+**Key insights**
+- Retention trends and churn segmentation  
+- Drop-off analysis by demographics and treatment type  
+- Actionable insights to improve patient loyalty  
+
+[View project →](./patient-retention-dashboard/README.md)
+
+
 ## Tools & Skills
 SQL  
 Business Intelligence  
