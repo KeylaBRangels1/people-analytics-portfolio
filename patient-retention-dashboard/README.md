@@ -1,6 +1,6 @@
 # Patient Retention Dashboard
 
-![Patient Retention Dashboard](dashboard_mockup.png)
+!![Patient Retention Dashboard](dashboard_mockup.png)
 
 ## Problem
 Healthcare organizations often struggle to understand why patients discontinue their treatments or switch providers. Without clear visibility into retention patterns, it becomes difficult to design effective engagement and follow-up strategies.
