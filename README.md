@@ -11,7 +11,7 @@ It focuses on:
 - enabling decisions on headcount, hiring, and workforce cost
 
 Portfolio (full case studies):
-[INSERT NOTION LINK]
+https://wheat-attraction-c19.notion.site/portfolio-people-systems-workforce-data
 
 ---
 
