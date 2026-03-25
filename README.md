@@ -1,72 +1,105 @@
-# People Analytics Portfolio
+# People Systems & Workforce Data Portfolio
 
-This repository contains projects focused on Business Intelligence and data analysis applied to People Operations.
+This repository supports a portfolio focused on designing People Systems and workforce data structures that enable reliable decisions across HR and Finance.
 
-The goal of this portfolio is to demonstrate practical skills in:
- 
-- SQL data analysis  
-- HR data modeling  
-- Business Intelligence dashboards  
-- People Analytics insights  
+The work here is not centered on dashboards or tools.
+
+It focuses on:
+
+- structuring fragmented HR data into controlled systems
+- defining data ownership and validation layers
+- enabling decisions on headcount, hiring, and workforce cost
+
+Portfolio (full case studies):
+[INSERT NOTION LINK]
+
+---
+
+## Core Focus Areas
+
+- People Systems Design: data flows, ownership, and control layers across HR operations  
+- HR Data Governance: consistency, validation, and auditability across systems  
+- Workforce Analytics: translating workforce data into planning and capacity decisions  
+- HR Data Architecture: normalized models and effective-dated structures  
+- Applied BI: outputs that support decisions, not reporting layers  
 
 ---
 
 ## Projects
 
-### 1. People Analytics Dashboard
-Workforce analytics dashboard integrating HR data sources to monitor key people metrics.
+### 1. Payroll Data Control & Workforce Integrity System
 
-**Main analyses**
-- Headcount trends
-- Attrition analysis
-- Engagement insights
-- Diversity representation
+Design of a controlled payroll dataset with defined ownership, validation checkpoints, and pre-payroll reconciliation logic.
 
----
-
-### 2. HR Data Model Design
-Design of a normalized HR data model to support analytics across the employee lifecycle.
-
-**Focus areas**
-- HR data architecture
-- Dimension and fact tables
-- Historical employee tracking
-- Data integrity and reporting structure
+Focus:
+- payroll data integrity
+- HR–Finance alignment
+- cost visibility and auditability
 
 ---
 
-### 3. Recruiting Pipeline Analysis
-Analysis of recruiting pipeline performance to identify bottlenecks and improve hiring efficiency.
+### 2. Workforce Data Model & Decision Support
 
-**Key metrics**
-- Time to hire
-- Pipeline conversion rates
-- Candidate source effectiveness
-- Funnel drop-off analysis
+Creation of a unified workforce dataset across HRIS, recruiting, and engagement data.
 
----
-
-### 4. Patient Retention Dashboard
-Business intelligence case study focused on patient retention analytics and churn reduction.
-
-**Key insights**
-- Retention trends and churn segmentation  
-- Drop-off analysis by demographics and treatment type  
-- Actionable insights to improve patient loyalty  
-
-[View project →](./patient-retention-dashboard/README.md)
+Focus:
+- headcount logic
+- attrition and tenure analysis
+- workforce planning signals
 
 ---
 
-## Tools & Skills
-SQL  
-Business Intelligence  
-Data Modeling  
-People Analytics  
-Dashboard Design  
+### 3. HR Data Architecture & Model Design
+
+Design of a normalized HR data model supporting historical tracking and scalable reporting.
+
+Focus:
+- dimension and fact tables
+- SCD Type 2 logic
+- effective dating and data consistency
+
+---
+
+### 4. Recruiting Pipeline & Hiring Efficiency Analysis
+
+Analysis of recruiting pipeline data to identify bottlenecks and improve hiring velocity.
+
+Focus:
+- time-to-fill drivers
+- pipeline conversion rates
+- capacity and sourcing decisions
+
+---
+
+### Additional Project
+
+#### Behavioral Demand Analysis (Cyclistic)
+
+Analysis of a public dataset to demonstrate analytical method, segmentation, and demand pattern identification.
+
+Included as proof of analytical approach, not professional work.
+
+---
+
+## Technical Examples
+
+Each project includes:
+
+- SQL queries for metric calculation
+- data model structure
+- logic for workforce metrics
+
+---
+
+## Tools
+
+- SQL  
+- BigQuery  
+- Tableau  
+- Spreadsheets  
 
 ---
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/keylarangelsantana  
-Email: keylarangelsantana@gmail.com
+
+LinkedIn: http://linkedin.com/in/keylarangelsantana
