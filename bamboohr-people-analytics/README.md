@@ -57,7 +57,7 @@ Designed to reflect real BambooHR export fields: hire dates, termination types, 
 
 ## Interactive Chart
 
-[📊 Salary Distribution by Department — Interactive Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdkYL_UcfnKEhzJyESyc62lexwAKL2xlbtSaU_DOHa7ByuyYl2XEeHiGu4iAqxbX2qPPLQPWV41Npp/pubchart?oid=98994373&format=interactive)
+[📊 Salary Distribution by Department — Interactive Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdkYL_UcfnKEhzJyESyc62lexwAKL2xlbtSaU_DOHa7ByuyYl2XEeHiGu4iAqxbX2qPPLQPWV41Npp/pubhtml?gid=276830848&single=true)
 
 *Built from SQL query results. Data: min, avg, and max salary by department across 6 teams.*
 ---
