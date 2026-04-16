@@ -99,5 +99,20 @@ These queries reflect the type of analysis I run in People Systems roles:
 
 ---
 
+## Sample Query Outputs
+
+### Current Active Headcount by Department
+![Current Active Headcount by Department](images/current-active-headcount-by-department.png)
+
+### Monthly Headcount Trend
+![Monthly Headcount Trend](images/monthly-headcount-trend.png)
+
+### Salary Distribution by Department
+![Salary Distribution by Department](images/salary-distribution-by-department.png)
+
+### Compa-Ratio by Department
+![Compa-Ratio by Department](images/compa-ratio-by-department.png)
+---
+
 *Queries tested on PostgreSQL 15. Dataset is entirely fictional.*
 
