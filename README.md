@@ -1,105 +1,35 @@
 # People Systems & Workforce Data Portfolio
 
-This repository supports a portfolio focused on designing People Systems and workforce data structures that enable reliable decisions across HR and Finance.
+SQL and data analysis portfolio focused on People Systems and HR Analytics.
+Built by **Keyla Rangel Santana** — Senior HRIS & People Systems Specialist with hands-on experience in BambooHR, Personio, and Factorial, working with remote-first global teams.
 
-The work here is not centered on dashboards or tools.
+This repository contains technical work applied to real HR use cases: headcount analysis, attrition tracking, compensation equity, and data governance.
 
-It focuses on:
-
-- structuring fragmented HR data into controlled systems
-- defining data ownership and validation layers
-- enabling decisions on headcount, hiring, and workforce cost
-
-Portfolio (full case studies):
-https://wheat-attraction-c19.notion.site/portfolio-people-systems-workforce-data
-
----
-
-## Core Focus Areas
-
-- People Systems Design: data flows, ownership, and control layers across HR operations  
-- HR Data Governance: consistency, validation, and auditability across systems  
-- Workforce Analytics: translating workforce data into planning and capacity decisions  
-- HR Data Architecture: normalized models and effective-dated structures  
-- Applied BI: outputs that support decisions, not reporting layers  
+Portfolio (full case studies): https://wheat-attraction-c19.notion.site/portfolio-people-systems-workforce-data
+LinkedIn: https://linkedin.com/in/keylarangelsantana
 
 ---
 
 ## Projects
 
-### 1. Payroll Data Control & Workforce Integrity System
+### 1. People Analytics SQL Portfolio — BambooHR Dataset
+SQL queries for People Analytics built on a BambooHR-inspired dataset.
 
-Design of a controlled payroll dataset with defined ownership, validation checkpoints, and pre-payroll reconciliation logic.
+Covers:
+- Headcount trend analysis (point-in-time reconstruction)
+- Attrition rate — voluntary vs involuntary, by department and year
+- Compensation distribution, pay bands by level, salary review flags
+- Compa-ratio analysis with band positioning
 
-Focus:
-- payroll data integrity
-- HR–Finance alignment
-- cost visibility and auditability
+SQL concepts: CTEs, window functions (LAG, PERCENTILE_CONT), GENERATE_SERIES, DISTINCT ON, FULL OUTER JOIN, NULLIF, date arithmetic.
 
----
-
-### 2. Workforce Data Model & Decision Support
-
-Creation of a unified workforce dataset across HRIS, recruiting, and engagement data.
-
-Focus:
-- headcount logic
-- attrition and tenure analysis
-- workforce planning signals
-
----
-
-### 3. HR Data Architecture & Model Design
-
-Design of a normalized HR data model supporting historical tracking and scalable reporting.
-
-Focus:
-- dimension and fact tables
-- SCD Type 2 logic
-- effective dating and data consistency
-
----
-
-### 4. Recruiting Pipeline & Hiring Efficiency Analysis
-
-Analysis of recruiting pipeline data to identify bottlenecks and improve hiring velocity.
-
-Focus:
-- time-to-fill drivers
-- pipeline conversion rates
-- capacity and sourcing decisions
-
----
-
-### Additional Project
-
-#### Behavioral Demand Analysis (Cyclistic)
-
-Analysis of a public dataset to demonstrate analytical method, segmentation, and demand pattern identification.
-
-Included as proof of analytical approach, not professional work.
-
----
-
-## Technical Examples
-
-Each project includes:
-
-- SQL queries for metric calculation
-- data model structure
-- logic for workforce metrics
+→ [View project](bamboohr-people-analytics/)
 
 ---
 
 ## Tools
 
-- SQL  
-- BigQuery  
-- Tableau  
-- Spreadsheets  
-
----
-
-## Contact
-
-LinkedIn: http://linkedin.com/in/keylarangelsantana
+- SQL (PostgreSQL) — Advanced · Certified (LearnSQL.com, 100% Expert · Apr 2026)
+- Google Sheets
+- HR Analytics
+- HRIS: BambooHR · Personio · Factorial · SAP SuccessFactors
