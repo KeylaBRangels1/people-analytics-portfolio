@@ -55,6 +55,11 @@ Designed to reflect real BambooHR export fields: hire dates, termination types, 
 | 5 | Employees without review in 18+ months | CTE, `AGE()`, interval filtering |
 | 6 | Compa-ratio by department | CTE, derived table, ratio calculation, `CASE WHEN` banding |
 
+## Interactive Chart
+
+[📊 Salary Distribution by Department — Interactive Chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdkYL_UcfnKEhzJyESyc62lexwAKL2xlbtSaU_DOHa7ByuyYl2XEeHiGu4iAqxbX2qPPLQPWV41Npp/pubchart?oid=98994373&format=interactive)
+
+*Built from SQL query results. Data: min, avg, and max salary by department across 6 teams.*
 ---
 
 ## SQL Concepts Demonstrated
